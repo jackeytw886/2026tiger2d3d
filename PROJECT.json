@@ -1,0 +1,35 @@
+{
+  "project_id": "P007",
+  "github_repository_id": 1415219620,
+  "title_en": "Leopard Cat Moon 2D and 3D",
+  "title_zh": "石虎明月燈組・2D／3D",
+  "category": "lantern",
+  "topics": [
+    "light-show",
+    "3d"
+  ],
+  "repository_full_name": "jackeytw886/2026tiger2d3d",
+  "repository_url": "https://github.com/jackeytw886/2026tiger2d3d",
+  "default_branch": "main",
+  "visibility": "public",
+  "aliases": [],
+  "suggested_name": "lantern-leopard-cat-moon",
+  "repository_status": "connected",
+  "content_state": "source-present",
+  "lifecycle": "unknown",
+  "pages_enabled": true,
+  "deployment_url": "https://jackeytw886.github.io/2026tiger2d3d",
+  "event_year": null,
+  "entry_paths": [
+    "index.html"
+  ],
+  "related_project_ids": [
+    "P008"
+  ],
+  "handoff_path": "HANDOFF.md",
+  "verification_source": "github-tree-and-readme",
+  "verified_at": "2026-10-17T20:41:56+08:00",
+  "source_baseline_sha": "cdb904c88a1f375b032b17e8527aa0701d452501",
+  "last_runtime_verified_sha": null,
+  "naming_status": "preserved-for-pages"
+}
